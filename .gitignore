@@ -1,0 +1,16 @@
+# Virtual environments & uv
+.venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# SQLite runtime state
+*.db
+*.db-wal
+*.db-shm
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
